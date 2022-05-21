@@ -1,1 +1,1 @@
-# Desafios Decola Tech 3ª Edição
+# Desafios: Decola Tech 3ª Edição
