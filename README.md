@@ -14,4 +14,6 @@ Certos conceitos como algoritmos, tipos de variáveis, vetorez, matrizes e outro
   - <a href="https://github.com/LeticiaTrindade/Curriculo-DIO" target="_blank">Criando aplicações móveis multiplataforma com React Native</a>
   - <a href="https://github.com/LeticiaTrindade/Site-FlexTurismos---DIO" target="_blank">Posicionando elementos com Flexbox em CSS</a>
   - <a href="https://github.com/LeticiaTrindade/Instagram-DIO" target="_blank">Recriando a página inicial do Instagram</a>
+  - <a href="https://github.com/LeticiaTrindade/Pokedex--DIO" target="_blank">Pokedex</a>
+  
   
