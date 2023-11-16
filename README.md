@@ -18,6 +18,6 @@ Certos conceitos como algoritmos, tipos de variáveis, vetorez, matrizes e outro
   - <a href="https://github.com/LeticiaTrindade/Site-FlexTurismos---DIO" target="_blank">Posicionando elementos com Flexbox em CSS</a>
   - <a href="https://github.com/LeticiaTrindade/Instagram-DIO" target="_blank">Recriando a página inicial do Instagram</a>
   - <a href="https://github.com/LeticiaTrindade/Pokedex--DIO" target="_blank">Pokedex</a>
-
+  - <a href="https://github.com/LeticiaTrindade/DIO-classificador-nivel-de-heroi" target="_blank">Classificador Nídel de Herói</a>
   
   
